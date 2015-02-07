@@ -1,0 +1,15 @@
+
+
+Object Orient Design Mini-Project
+
+Shuffletter game (loosely based on the game Bananagrams)
+
+Copyright 
+Guannan Ren
+2014
+
+To run the app,
+1. Import the project folders for MyShuffletterModel and MyShuffletterUI into eclipse
+2. Configure the build path of MyShuffletterUI to depend on MyShuffletterModel
+3. Run MyShuffletterMain inside MyShuffletterUI folder in eclipse
+
